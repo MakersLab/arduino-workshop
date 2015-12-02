@@ -1,6 +1,6 @@
 # Arduino workshop
 
-Příklady a podklady pro Arduino workshopy konané v [MakersLab](http://makerslab.cz/) v prostorách Pararelní Polis.
+Příklady a podklady pro Arduino workshopy konané v [MakersLab](http://makerslab.cz/) v prostorách [Pararelní Polis](http://www.paralelnipolis.cz/).
 
 # Workshopy
 
