@@ -1,8 +1,21 @@
 # Arduino workshop 01
 
-Software download: [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software).
+Před prvním workshopem si prosím stáhněte a nainstalujte vývojové prostředí 
+[Arduino IDE](https://www.arduino.cc/en/Main/Software) - 130MB. 
 
-## Other links
+## Plán workshopu
 
-Arduino simulator - [https://123d.circuits.io/lab](https://123d.circuits.io/lab)
-Paperduino (Arduino from paper) - [http://www.instructables.com/id/Paperduino-20-with-Circuit-Scribe/](http://www.instructables.com/id/Paperduino-20-with-Circuit-Scribe/)
+- ověření instalace vývojového prostředí (IDE)
+- základy programování v IDE a seznámení s prostředím
+- příklad #01 - rozblikání diody
+- příklad #02 - postupné rozsvěcení diody tzv. fade
+- příklad #03 - rozsvěcení diody spínačem
+
+## Potřebné vybavení
+
+- notebook s USB
+- Arduino/Genuino UNO - 1 ks
+- breadboard (nepájivé pole) - 1 ks
+- LED dioda - 1 ks
+- mikrospínač - 1 ks
+- rezistor 10k - 1 ks
