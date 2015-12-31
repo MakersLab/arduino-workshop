@@ -8,6 +8,7 @@ Příklady a podklady pro Arduino workshopy konané v [MakersLab](http://makersl
 - [Workshop 01](https://github.com/MakersLab/arduino-workshop/tree/master/workshop-01)
 - [Workshop 02](https://github.com/MakersLab/arduino-workshop/tree/master/workshop-02)
 - [Workshop 03](https://github.com/MakersLab/arduino-workshop/tree/master/workshop-03)
+- [Workshop 04](https://github.com/MakersLab/arduino-workshop/tree/master/workshop-04)
 - ...
 
 # Potřebný software
