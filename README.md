@@ -13,7 +13,7 @@ Příklady a podklady pro Arduino workshopy konané v [MakersLab](http://makersl
 
 # Potřebný software
 
-Z oficiálních stránek stáhněte vývojové prostředí [Arduino IDE](https://www.arduino.cc/en/Main/Software) - 130MB.
+Z oficiálních stránek stáhněte vývojové prostředí [Arduino IDE](https://www.arduino.cc/en/Main/Software) [~130MB].
 
 # Odkazy
 
@@ -37,7 +37,7 @@ Z oficiálních stránek stáhněte vývojové prostředí [Arduino IDE](https:/
 - propojovací kabely pro bread board - 20 ks
 - LED diody, červené/zelené - 10 ks
 - rezistory (220, 330, 1k, 10k, 100k, 1M) - 10 ks
-- Mikrospínač do DPS 1-pólový spínací On/Off - 10 ks
+- mikrospínač do DPS 1-pólový spínací On/Off - 10 ks
 - alfanumerický LCD displej s řadičem 2ř/16zn. (např. Hitachi HD44780U) - 1 ks
 - napájecí adaptér síťový 9-12V, 1000mA, konektor 5,5/2,1mm - 1 ks
 - krokový motor (NEMA 17, 0.3Nm Microcon SX17-1003LQEF) - 1 ks
