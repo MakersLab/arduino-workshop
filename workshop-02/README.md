@@ -17,3 +17,8 @@
 - rezistory 150, 10k - 5 ks
 - piezoměnič
 - [fotorezistor](https://en.wikipedia.org/wiki/Photoresistor) - 1 ks
+
+## Domácí úkoly
+
+- zapojit víc tlačítek, každý hraje jinej tón
+- zapojit fotorezistor a LEDku, čim větší tma, tim víc svítí LED
